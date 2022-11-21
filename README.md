@@ -17,7 +17,7 @@
         <dd>GOURU SUPRATHIKA</dd>
         <dd>ABBURI NOSHMA</dd>
         <dd>DUTTALURU GURU PRAVALLIKA</dd>
-        <dd>GOLLA JHANAVI</dd>
+        <dd>GOLLA JAHNAVI</dd>
       </dl>
   </body>
 </html>
